@@ -1,0 +1,4 @@
+/*
+We may have more if branches than else brancehs in a part of a code.
+Assihn an else to the closest preceding if.
+*/

@@ -1,0 +1,5 @@
+/*
+parameter is being initialzed by the function call and its life time ends when finction terminats.
+local variables lide time depends on how we declare them.
+local static variables remains in the system while program is running.
+*/
